@@ -15,5 +15,7 @@ Do you like *coffee* or *tea*?
 2. two
 3. three
 
+## Answers
+
 My favourite color is green.
 My favourite food is salad.
