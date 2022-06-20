@@ -7,8 +7,6 @@ My name is Stefan Helms.
 Do you like *coffee* or *tea*? 
 **Coffee.**
 
-### Unordered List
-
 * here
 * some
 * text
